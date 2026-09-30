@@ -1,0 +1,5 @@
+click
+rich
+bandit
+pytest
+pytest-cov
